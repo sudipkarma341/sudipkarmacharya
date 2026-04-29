@@ -1,44 +1,32 @@
-# vCard - Personal portfolio
+Initio - Free, multipurpose html5 template
+=============
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Initio is a fully featured html5 theme which will help you create a stylish personal or company site. 
+6 page layout templates should cover all your development needs. 
+Font Awesome 4, parallax effects and more are included (but can be turned off of course)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-## Demo
+License
+-------
+**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-## Prerequisites
+Bug tracker
+-----------
 
-Before you begin, ensure you have met the following requirements:
+Found a bug? Please create an issue here on GitHub! 
+https://github.com/pozh/Initio/issues
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
 
-To install **vCard**, follow these steps:
+Credits
+-------
+* Design and development: **Sergey Pozhilov** - http://pozhilov.com
+* More free templates by Sergey: http://gettemplate.com
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
-
-## License
-
-MIT
+Photos used in the template
+-------
+* http://www.publicdomainpictures.net/view-image.php?image=19999
+* http://www.publicdomainpictures.net/view-image.php?image=6354
+* http://imcreator.com/free/business/macbook-computer
+* http://unsplush.com
