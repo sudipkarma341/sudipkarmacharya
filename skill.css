@@ -91,15 +91,15 @@ a {
 #Skill-Database {
   width: 90%;
   border-radius: 20px;
-  animation: Animate-HTML 4s;
-  -webkit-animation: Animate-HTML 4s;
-  -moz-animation: Animate-HTML 4s;
-  -o-animation: Animate-HTML 4s;
+  animation: Animate-Database 4s;
+  -webkit-animation: Animate-Database 4s;
+  -moz-animation: Animate-Database 4s;
+  -o-animation: Animate-Database 4s;
   height: 50px;
   position: absolute;
   background-color: #6c63ff;
 }
-@keyframes Animate-HTML {
+@keyframes Animate-Database {
   from {
     width: 10px;
   }
@@ -107,7 +107,7 @@ a {
     width: 90%;
   }
 }
-@-webkit-keyframes Animate-HTML {
+@-webkit-keyframes Animate-Database {
   from {
     width: 10px;
   }
@@ -115,7 +115,7 @@ a {
     width: 90%;
   }
 }
-@-moz-keyframes Animate-HTML {
+@-moz-keyframes Animate-Database {
   from {
     width: 10px;
   }
@@ -123,7 +123,7 @@ a {
     width: 90%;
   }
 }
-@-o-keyframes Animate-HTML {
+@-o-keyframes Animate-Database {
   from {
     width: 10px;
   }
@@ -132,17 +132,17 @@ a {
   }
 }
 #Skill-Firewall {
-  animation: Animate-CSS 5s;
-  -webkit-animation: Animate-CSS 5s;
-  -moz-animation: Animate-CSS 5s;
-  -o-animation: Animate-CSS 5s;
+  animation: Animate-Firewall5s;
+  -webkit-animation: Animate-Firewall 5s;
+  -moz-animation: Animate-Firewall 5s;
+  -o-animation: Animate-Firewall 5s;
   border-radius: 20px;
   width: 70%;
   height: 50px;
   position: absolute;
   background-color: #6c63ff;
 }
-@keyframes Animate-CSS {
+@keyframes Animate-Firewall {
   from {
     width: 10px;
   }
@@ -150,7 +150,7 @@ a {
     width: 70%;
   }
 }
-@-webkit-keyframes Animate-CSS {
+@-webkit-keyframes Animate-Firewall {
   from {
     width: 10px;
   }
@@ -158,7 +158,7 @@ a {
     width: 70%;
   }
 }
-@-moz-keyframes Animate-CSS {
+@-moz-keyframes Animate-Firewall {
   from {
     width: 10px;
   }
@@ -166,7 +166,7 @@ a {
     width: 70%;
   }
 }
-@-o-keyframes Animate-CSS {
+@-o-keyframes Animate-Firewall {
   from {
     width: 10px;
   }
@@ -176,16 +176,16 @@ a {
 }
 #Skill-Network {
   border-radius: 20px;
-  animation: Animate-Python 5s;
-  -webkit-animation: Animate-Python 5s;
-  -moz-animation: Animate-Python 5s;
-  -o-animation: Animate-Python 5s;
+  animation: Animate-Network 5s;
+  -webkit-animation: Animate-Network 5s;
+  -moz-animation: Animate-Network 5s;
+  -o-animation: Animate-Network 5s;
   width: 80%;
   height: 50px;
   position: absolute;
   background-color: #6c63ff;
 }
-@keyframes Animate-Python {
+@keyframes Animate-Network {
   from {
     width: 10px;
   }
@@ -193,7 +193,7 @@ a {
     width: 80%;
   }
 }
-@-webkit-keyframes Animate-Python {
+@-webkit-keyframes Animate-Network {
   from {
     width: 10px;
   }
@@ -201,7 +201,7 @@ a {
     width: 80%;
   }
 }
-@-moz-keyframes Animate-Python {
+@-moz-keyframes Animate-Network {
   from {
     width: 10px;
   }
@@ -209,7 +209,7 @@ a {
     width: 80%;
   }
 }
-@-o-keyframes Animate-Python {
+@-o-keyframes Animate-Network {
   from {
     width: 10px;
   }
@@ -218,17 +218,17 @@ a {
   }
 }
 #Skill-Gitlab {
-  animation: Animate-JS 4s;
-  -webkit-animation: Animate-JS 4s;
-  -moz-animation: Animate-JS 4s;
-  -o-animation: Animate-JS 4s;
+  animation: Animate-Gitlab 4s;
+  -webkit-animation: Animate-Gitlab 4s;
+  -moz-animation: Animate-Gitlab 4s;
+  -o-animation: Animate-Gitlab 4s;
   border-radius: 20px;
   width: 65%;
   height: 50px;
   position: absolute;
   background-color: #6c63ff;
 }
-@keyframes Animate-JS {
+@keyframes Animate-Gitlab {
   from {
     width: 10px;
   }
@@ -236,7 +236,7 @@ a {
     width: 65%;
   }
 }
-@-webkit-keyframes Animate-JS {
+@-webkit-keyframes Animate-Gitlab {
   from {
     width: 10px;
   }
@@ -244,7 +244,7 @@ a {
     width: 65%;
   }
 }
-@-moz-keyframes Animate-JS {
+@-moz-keyframes Animate-Gitlab {
   from {
     width: 10px;
   }
@@ -252,7 +252,7 @@ a {
     width: 65%;
   }
 }
-@-o-keyframes Animate-JS {
+@-o-keyframes Animate-Gitlab {
   from {
     width: 10px;
   }
@@ -262,17 +262,17 @@ a {
 }
 
 #Skill-Linux {
-  animation: Animate-C 4s;
-  -webkit-animation: Animate-C 4s;
-  -moz-animation: Animate-C 4s;
-  -o-animation: Animate-C 4s;
+  animation: Animate-Linux 4s;
+  -webkit-animation: Animate-Linux 4s;
+  -moz-animation: Animate-Linux 4s;
+  -o-animation: Animate-Linux 4s;
   border-radius: 20px;
   width: 80%;
   height: 50px;
   position: absolute;
   background-color: #6c63ff;
 }
-@keyframes Animate-C {
+@keyframes Animate-Linux {
   from {
     width: 10px;
   }
@@ -280,7 +280,7 @@ a {
     width: 80%;
   }
 }
-@-webkit-keyframes Animate-C {
+@-webkit-keyframes Animate-Linux {
   from {
     width: 10px;
   }
@@ -288,7 +288,7 @@ a {
     width: 80%;
   }
 }
-@-moz-keyframes Animate-C {
+@-moz-keyframes Animate-Linux {
   from {
     width: 10px;
   }
@@ -296,7 +296,7 @@ a {
     width: 80%;
   }
 }
-@-o-keyframes Animate-C {
+@-o-keyframes Animate-Linux {
   from {
     width: 10px;
   }
@@ -305,17 +305,17 @@ a {
   }
 }
 #Skill-Docker {
-  animation: Animate-Cplus4s;
-  -webkit-animation: Animate-Cplus 4s;
-  -moz-animation: Animate-Cplus 4s;
-  -o-animation: Animate-Cplus 4s;
+  animation: Animate-Docker 4s;
+  -webkit-animation: Animate-Docker 4s;
+  -moz-animation: Animate-Docker 4s;
+  -o-animation: Animate-Docker 4s;
   border-radius: 20px;
   width: 85%;
   height: 50px;
   position: absolute;
   background-color: #6c63ff;
 }
-@keyframes Animate-Cplus {
+@keyframes Animate-Docker {
   from {
     width: 10px;
   }
@@ -323,7 +323,7 @@ a {
     width: 85%;
   }
 }
-@-webkit-keyframes Animate-Cplus {
+@-webkit-keyframes Animate-Docker {
   from {
     width: 10px;
   }
@@ -331,7 +331,7 @@ a {
     width: 85%;
   }
 }
-@-moz-keyframes Animate-Cplus {
+@-moz-keyframes Animate-Docker {
   from {
     width: 10px;
   }
@@ -339,7 +339,7 @@ a {
     width: 85%;
   }
 }
-@-o-keyframes Animate-Cplus {
+@-o-keyframes Animate-Docker {
   from {
     width: 10px;
   }
@@ -348,10 +348,10 @@ a {
   }
 }
 #Skill-Kubernetes {
-  animation: Animate-SQL 4s;
-  -webkit-animation: Animate-SQL 4s;
-  -moz-animation: Animate-SQL 4s;
-  -o-animation: Animate-SQL 4s;
+  animation: Animate-Kubernetes 4s;
+  -webkit-animation: Animate-Kubernetes 4s;
+  -moz-animation: Animate-Kubernetes 4s;
+  -o-animation: Animate-Kubernetes 4s;
   border-radius: 20px;
   width: 80%;
   height: 50px;
