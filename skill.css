@@ -89,7 +89,7 @@ a {
 }
 
 #Skill-Database {
-  width: 90%;
+  width: 60%;
   border-radius: 20px;
   animation: Animate-Database 4s;
   -webkit-animation: Animate-Database 4s;
@@ -137,7 +137,7 @@ a {
   -moz-animation: Animate-Firewall 5s;
   -o-animation: Animate-Firewall 5s;
   border-radius: 20px;
-  width: 70%;
+  width: 850%;
   height: 50px;
   position: absolute;
   background-color: #6c63ff;
@@ -223,7 +223,7 @@ a {
   -moz-animation: Animate-Gitlab 4s;
   -o-animation: Animate-Gitlab 4s;
   border-radius: 20px;
-  width: 65%;
+  width: 75%;
   height: 50px;
   position: absolute;
   background-color: #6c63ff;
@@ -310,7 +310,7 @@ a {
   -moz-animation: Animate-Docker 4s;
   -o-animation: Animate-Docker 4s;
   border-radius: 20px;
-  width: 85%;
+  width: 70%;
   height: 50px;
   position: absolute;
   background-color: #6c63ff;
@@ -353,7 +353,7 @@ a {
   -moz-animation: Animate-Kubernetes 4s;
   -o-animation: Animate-Kubernetes 4s;
   border-radius: 20px;
-  width: 80%;
+  width: 50%;
   height: 50px;
   position: absolute;
   background-color: #6c63ff;
