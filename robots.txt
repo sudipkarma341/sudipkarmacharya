@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sudipkarmacharya.com.np/sitemap.xml
