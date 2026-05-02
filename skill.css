@@ -358,7 +358,7 @@ a {
   position: absolute;
   background-color: #6c63ff;
 }
-@keyframes Animate-SQL {
+@keyframes Animate-Kubernetes {
   from {
     width: 10px;
   }
@@ -366,7 +366,7 @@ a {
     width: 80%;
   }
 }
-@-webkit-keyframes Animate-SQL {
+@-webkit-keyframes Animate- {
   from {
     width: 10px;
   }
@@ -374,7 +374,7 @@ a {
     width: 80%;
   }
 }
-@-moz-keyframes Animate-SQL {
+@-moz-keyframes Animate-Kubernetes {
   from {
     width: 10px;
   }
@@ -382,7 +382,7 @@ a {
     width: 80%;
   }
 }
-@-o-keyframes Animate-SQL {
+@-o-keyframes Animate-Kubernetes {
   from {
     width: 10px;
   }
